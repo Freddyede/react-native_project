@@ -1,0 +1,12 @@
+
+.expo/
+
+assets/
+
+node_modules/.bin/
+
+node_modules/
+
+*.json
+
+babel.config.js
